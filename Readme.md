@@ -3,7 +3,7 @@
 🎓 Senior Software Engineer<br>
 💠 Senior Full-Stack Developer<br>
 🎮 Senior Video Games Developer<br>
-🎨 Junior Art Director<br>
+🎨 Senior Graphic Designer<br>
 
 ## 🌀 Contact me
 [![Facebook Badge](https://img.shields.io/badge/selcukcukur->-blue?style=for-the-badge&logo=facebook)](https://facebook.com/selcukcukur/)
