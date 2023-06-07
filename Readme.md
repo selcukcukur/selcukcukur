@@ -1,5 +1,7 @@
 ## ![Contact Me](https://raw.githubusercontent.com/selcukcukur/selcukcukur/f7e42e9b94547a674cc001a1ce2258895db1c1e5/Assets/ContactMe.svg)
 
+## ![Contact Me](https://raw.githubusercontent.com/selcukcukur/selcukcukur/f7e42e9b94547a674cc001a1ce2258895db1c1e5/Assets/ContactMe.svg)
+
 There are many easy ways to reach me, one of them is my social media accounts, if you use any of them, every social media
 I also have an account on the platform. In general, I try to be as active as possible on every platform. Remember, the 
 fastest communication will be via **WhatsApp**.
