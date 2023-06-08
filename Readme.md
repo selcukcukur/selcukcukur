@@ -12,4 +12,4 @@ contact me without any hesitation. Remember that you will get the fastest respon
 [![Discord](https://img.shields.io/static/v1?message=selcukcukur&style=for-the-badge&logo=discord&labelColor=4f5bdb&color=5865F2&logoColor=white&label=%20)](https://discordapp.com/users/)
 [![WhatsApp](https://img.shields.io/static/v1?message=selcukcukur&style=for-the-badge&logo=whatsapp&labelColor=20bd5b&color=25D366&logoColor=white&label=%20)](https://wa.me/905330970697)
 [![Mail](https://img.shields.io/static/v1?message=selcukcukur&style=for-the-badge&logo=mail.ru&labelColor=8057de&color=8e60f7&logoColor=white&label=%20)](mailto:selcukcukur@outlook.com.tr)
-[![Mail](https://img.shields.io/static/v1?message=selcukcukur&style=for-the-badge&logo=dribbble&labelColor=d9ad55&color=edbe5f&logoColor=white&label=%20)](https://selcukcukur.com.tr)
+[![Mail](https://img.shields.io/static/v1?message=selcukcukur&style=for-the-badge&logo=dribbble&labelColor=cc5c33&color=eb6a3b&logoColor=white&label=%20)](https://selcukcukur.com.tr)
