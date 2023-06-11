@@ -9,7 +9,7 @@ excited to be a part of training series and many open source projects.
 
 In my free time I've built and maintain various open-source projects of my own like :
 
-- **[KnightOnline](https://github.com/selcukcukur/KnightOnline)** - Open source development project of Knight Online 3D MMORPG Game.
+- I haven't started a project yet.
 
 ## Contact Me
 
