@@ -7,9 +7,9 @@ excited to be a part of training series and many open source projects.
   > **Note**
   > It's not over until you win, it's always too early to quit.
 
-In my free time I've built and maintain various open-source projects of my own like :
+In my spare time, I am interested in projects that I aim to be open source or that I publish as open source :
 
-- [N3TableEditor](https://github.com/selcukcukur/N3TableEditor) - Utility for encrypting, decrypting and editing game engine table files.
+- I haven't started a project yet.
 
 ## Contact Me
 
