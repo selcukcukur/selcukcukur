@@ -9,7 +9,7 @@ excited to be a part of training series and many open source projects.
 
 In my free time I've built and maintain various open-source projects of my own like :
 
-- [N3TableEditor](https://github.com/selcukcukur/N3TableEditor) - Utility for encrypting, decrypting, editing and creating game engine table files.
+- [N3TableEditor](https://github.com/selcukcukur/N3TableEditor) - Utility for encrypting, decrypting and editing game engine table files.
 
 ## Contact Me
 
