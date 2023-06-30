@@ -13,12 +13,12 @@ and provide gene transfer. If you want to consult on any subject, do not hesitat
 ## Projects
 
 ### OpenKO (Open Source Code Knight Online 3D MMORPG)
-- [**KOServer**](https://github.com/selcukcukur/KOServer) (Server files development project for OpenKO)
-- [**KOClient**](https://github.com/selcukcukur/KOClient) (Client and engine development project for OpenKO)
-- [**KODatabase**](https://github.com/selcukcukur/KODatabase) (Database development project for OpenKO)
-- [**KOStudio**](https://github.com/selcukcukur/KOStudio) (Game engine tools development project for OpenKO)
-- [**KOStore**](https://github.com/selcukcukur/KOStore) (Game store development project for OpenKO)
-- [**KOWebsite**](https://github.com/selcukcukur/KOWebsite) (Website development project for OpenKO)
+- [**KOServer**](https://github.com/selcukcukur/KOServer) (Server files development project for [**OpenKO**](https://docs.selcukcukur.com.tr/openko))
+- [**KOClient**](https://github.com/selcukcukur/KOClient) (Client and engine development project for [**OpenKO**](https://docs.selcukcukur.com.tr/openko))
+- [**KODatabase**](https://github.com/selcukcukur/KODatabase) (Database development project for [**OpenKO**](https://docs.selcukcukur.com.tr/openko))
+- [**KOStudio**](https://github.com/selcukcukur/KOStudio) (Game engine tools development project for [**OpenKO**](https://docs.selcukcukur.com.tr/openko))
+- [**KOStore**](https://github.com/selcukcukur/KOStore) (Game store development project for [**OpenKO**](https://docs.selcukcukur.com.tr/openko))
+- [**KOWebsite**](https://github.com/selcukcukur/KOWebsite) (Website development project for [**OpenKO**](https://docs.selcukcukur.com.tr/openko))
 
 ## Contact
 
