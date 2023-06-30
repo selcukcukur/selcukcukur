@@ -1,4 +1,4 @@
-## 👋 Welcome to my profile
+## About
 
 I am **Selçuk**, I love developing open source projects, frameworks, plugins or packages. I would like to state that I am 
 very happy to use all my experience so far to contribute to the open source code community in my spare time. I am very 
@@ -7,17 +7,20 @@ excited to be a part of training series and many open source projects.
   > **Note**
   > It's not over until you win, it's always too early to quit.
 
-In my spare time, I am interested in projects that I aim to be open source or that I publish as open source :
+In my spare time, I develop open source projects and prepare training series. I am very excited to help and share something 
+and provide gene transfer. If you want to consult on any subject, do not hesitate to reach me at my contact addresses.
 
-- **OpenKO** (Open Source Knight Online 3D MMORPG)
-  - [**KOServer**](https://github.com/selcukcukur/KOServer) (Server files development project for OpenKO)
-  - [**KOClient**](https://github.com/selcukcukur/KOClient) (Client and engine development project for OpenKO)
-  - [**KODatabase**](https://github.com/selcukcukur/KODatabase) (Database development project for OpenKO)
-  - [**KOStudio**](https://github.com/selcukcukur/KOStudio) (Game engine tools development project for OpenKO)
-  - [**KOStore**](https://github.com/selcukcukur/KOStore) (Game store development project for OpenKO)
-  - [**KOWebsite**](https://github.com/selcukcukur/KOWebsite) (Website development project for OpenKO)
+## Projects
 
-## Contact Me
+### OpenKO (Open Source Knight Online 3D MMORPG)
+- [**KOServer**](https://github.com/selcukcukur/KOServer) (Server files development project for OpenKO)
+- [**KOClient**](https://github.com/selcukcukur/KOClient) (Client and engine development project for OpenKO)
+- [**KODatabase**](https://github.com/selcukcukur/KODatabase) (Database development project for OpenKO)
+- [**KOStudio**](https://github.com/selcukcukur/KOStudio) (Game engine tools development project for OpenKO)
+- [**KOStore**](https://github.com/selcukcukur/KOStore) (Game store development project for OpenKO)
+- [**KOWebsite**](https://github.com/selcukcukur/KOWebsite) (Website development project for OpenKO)
+
+## Contact
 
 I try to actively use all social media accounts as much as I can, if you want to communicate about anything, you can 
 contact me without any hesitation. Remember that you will get the fastest response via **WhatsApp**.
