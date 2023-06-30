@@ -12,7 +12,7 @@ and provide gene transfer. If you want to consult on any subject, do not hesitat
 
 ## Projects
 
-### OpenKO (Open Source Knight Online 3D MMORPG)
+### OpenKO (Open Source Code Knight Online 3D MMORPG)
 - [**KOServer**](https://github.com/selcukcukur/KOServer) (Server files development project for OpenKO)
 - [**KOClient**](https://github.com/selcukcukur/KOClient) (Client and engine development project for OpenKO)
 - [**KODatabase**](https://github.com/selcukcukur/KODatabase) (Database development project for OpenKO)
