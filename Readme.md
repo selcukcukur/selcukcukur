@@ -12,7 +12,7 @@ and provide gene transfer. If you want to consult on any subject, do not hesitat
 
 ## Projects
 
-- [**OpenKO**](https://github.com/selcukcukur/OpenKO) (Development of Knight Online 3D MMORPG as open source)
+- 
 
 ## Contact
 
