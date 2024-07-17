@@ -12,12 +12,10 @@ and provide gene transfer. If you want to consult on any subject, do not hesitat
 
 ## Projects
 
-- [Srylıus.UI (Core)](https://github.com/srylius-ui/sui) - Next generation user and application interface kit for developers.
-- [Srylıus.UI (Vue)](https://github.com/srylius-ui/sui-vue) - Next generation user and application interface kit for developers.
-- [Srylıus.UI (React)](https://github.com/srylius-ui/sui-react) - Next generation user and application interface kit for developers.
-- [Srylıus.UI (Angular)](https://github.com/srylius-ui/sui-angular) - Next generation user and application interface kit for developers.
-- [Srylıus.UI (Svelte)](https://github.com/srylius-ui/sui-svelte) - Next generation user and application interface kit for developers.
-- [Srylıus.UI (Laravel)](https://github.com/srylius-ui/sui-laravel) - Next generation user and application interface kit for developers.
+- [**Levdwire.JS**](https://github.com/levdwire/levdwire-js) - New generation lightweight, simple and powerful javascript framework.
+- [**Levdwire.CSS**](https://github.com/levdwire/levdwire-css) - Next generation utility-first css framework for developing fast and powerful interfaces.
+- [**Levdwire.UI**](https://github.com/levdwire/levdwire-ui) - Next generation user and application interface kit for developers.
+- [**Levdwire.Tailwind**](https://github.com/levdwire/levdwire-tailwind) - Next generation user interface kit and components with TailwindCSS.
 
 ## Contact
 
