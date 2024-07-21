@@ -13,9 +13,13 @@ and provide gene transfer. If you want to consult on any subject, do not hesitat
 ## Projects
 
 - [**Levdwire**](https://github.com/levdwire/levdwire) - Next generation user and application interface kit for developers.
-- [**Levdwire.Tailwind**](https://github.com/levdwire/tailwind) - Levdwire based colors, presets, helpers and components for the TailwindCSS.
 - ~[**Levdwire.JS**](https://github.com/levdwire/levdwire-js) - Next generation lightweight, simple and powerful javascript framework.~ **(Coming Soon)**
 - ~[**Levdwire.CSS**](https://github.com/levdwire/levdwire-css) - Next generation utility-first css framework for developing fast and powerful interfaces.~ **(Coming Soon)**
+- [**Levdwire.Tailwind**](https://github.com/levdwire/tailwind) - Levdwire based colors, presets, helpers and components for the TailwindCSS.
+- [**Levdwire.Vue**](https://github.com/levdwire/vue) - Levdwire based colors, presets, helpers and components for the **Vue**.
+- [**Levdwire.React**](https://github.com/levdwire/react) - Levdwire based colors, presets, helpers and components for the **React**.
+- [**Levdwire.Angular**](https://github.com/levdwire/angular) - Levdwire based colors, presets, helpers and components for the **Angular**.
+- [**Levdwire.Svelte**](https://github.com/levdwire/svelte) - Levdwire based colors, presets, helpers and components for the **Svelte**.
 
 ## Contact
 
