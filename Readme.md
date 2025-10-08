@@ -13,14 +13,14 @@ and provide information transfer. If you want to consult on any subject, do not 
 ## Projects
 
 - [**Srylius**](https://srylius.com) - Ultimate symphony for technology architecture.
-- [**Levdwire**](https://levdwire.com) - Next generation user and application interface kit for developers.
 - [**Sirketio**](https://sirketio.com) - Establish, manage and tracking your company with Sirketio!
-- [**Larawise**](https://larawise.com) - Most powerful, elegant and productive way to develop your application.
+- [**Larawise**](https://larawise.com) - The most powerful, elegant, and productive way to develop your next Laravel application.
+- [**Poox**](https://poox.io) - We’ve already laid the foundation for your next big idea — freeing you to.
 
 ## Contact
 
 I try to actively use all social media accounts as much as I can, if you want to communicate about anything, you can 
-contact me without any hesitation. Remember that you will get the fastest response via **Discord**.
+contact me without any hesitation.
 
 [![Facebook](https://img.shields.io/static/v1?message=selcukcukur&style=for-the-badge&logo=facebook&labelColor=1367d4&color=1877F2&logoColor=white&label=%20)](https://facebook.com/selcukcukur)
 [![Twitter](https://img.shields.io/static/v1?message=selcukcukur&style=for-the-badge&logo=twitter&labelColor=1886c9&color=1DA1F2&logoColor=white&label=%20)](https://twitter.com/selcukcukur)
