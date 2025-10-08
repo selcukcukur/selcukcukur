@@ -12,7 +12,7 @@ and provide information transfer. If you want to consult on any subject, do not 
 
 ## Projects
 
-- [**Srylius**](https://srylius.com) - Ultimate symphony for technology architecture.
+- [**Srylius**](https://srylius.com) - The ultimate symphony for technology architecture.
 - [**Sirketio**](https://sirketio.com) - Establish, manage and tracking your company with Sirketio!
 - [**Larawise**](https://larawise.com) - The most powerful, elegant, and productive way to develop your next Laravel application.
 - [**Poox**](https://poox.io) - We’ve already laid the foundation for your next big idea — freeing you to.
