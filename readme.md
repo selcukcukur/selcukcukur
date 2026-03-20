@@ -1,7 +1,5 @@
 ## About
 
-![Selçuk presenting at a tech conference](assets/london.png)
-
 A digital laboratory is a living ecosystem — where unfinished ideas are not flaws but seeds,
 where code is not static but fluid,  and where every experiment carries the potential to 
 reshape tomorrow.  
