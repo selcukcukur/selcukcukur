@@ -1,14 +1,25 @@
 ## About
 
-I am **Selçuk**, I love developing open source projects, frameworks, plugins or packages. I would like to state that I am 
-very happy to use all my experience so far to contribute to the open source code community in my spare time. I am very 
-excited to be a part of training series and many open source projects.
+A digital laboratory is a living ecosystem — where unfinished ideas are not flaws but seeds,
+where code is not static but fluid,  and where every experiment carries the potential to 
+reshape tomorrow.  
 
-  > **Note**
-  > It's not over until you win, it's always too early to quit.
+  > *Innovation is not built in comfort—it is forged in the rhythm of breaking and rebuilding stronger.*
 
-In my spare time, I develop open source projects and prepare training series. I am very excited to help and share something
-and provide information transfer. If you want to consult on any subject, do not hesitate to reach me at my contact addresses.
+Frameworks here are not just technical scaffolds; they are foundations for collaboration. 
+Plugins are not mere extensions; they are bridges between imagination and utility. Packages 
+are not isolated tools; they are vessels of shared knowledge, designed to travel across 
+borders and inspire new creations.  
+
+- Every commit is a declaration: *this is possible*.  
+- Every prototype is a rehearsal: *this can grow*.  
+- Every collaboration is a spark: *this will endure*.  
+
+This laboratory thrives on iteration—imagining, testing, breaking, and rebuilding stronger. 
+It is a place where curiosity becomes invention, where knowledge flows like electricity, 
+and where the rhythm of builders and dreamers composes a symphony of progress.  
+
+Step inside, and you don’t just witness creation—you become part of it. 
 
 ## Projects
 
