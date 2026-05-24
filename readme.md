@@ -26,6 +26,10 @@ Step inside, and you don’t just witness creation—you become part of it.
 - [**Forge**](https://selcukcukur.me) - My digital workshop — a living lab for ideas, experiments, and open-source creations
 - [**Obvia**](https://obvia.studio) - From primitives to studio — a complete design system for premium applications
 
+## Packages
+
+- [**Rustwatch**](https://github.com/selcukcukur/rustwatch) - First-class logging and monitoring for Rust applications. Deep insights and structured logs, wherever you deploy.
+
 ## Contact
 
 I try to actively use all social media accounts as much as I can, if you want to communicate about anything, you can 
