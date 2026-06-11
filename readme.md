@@ -28,8 +28,11 @@ Step inside, and you don’t just witness creation—you become part of it.
 
 ## Packages
 
-- [**Rustwatch**](https://github.com/selcukcukur/rustwatch) - First-class logging and monitoring for Rust applications. Deep insights and structured logs, wherever you deploy.
-- [**Rustpipe**](https://github.com/selcukcukur/rustpipe) - Composable pipelines in Rust — define pipes, chain transformations, and handle errors with elegance.
+### Rust
+
+- [**rustwatch**](https://github.com/selcukcukur/rustwatch) - Built on the idea that telemetry, metrics, and logs should be unified, spreading the philosophy that **everything is a record**.
+- [**rustpipe**](https://github.com/selcukcukur/rustpipe) - Built around the idea that every pipeline should remain explicit, predictable, and easy to reason about.
+- [**rustfly**](https://github.com/selcukcukur/rustfly) - Built on the idea that every entity should be manageable across platforms, from local storage to cloud servers.
 
 ## Contact
 
