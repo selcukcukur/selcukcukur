@@ -29,6 +29,7 @@ Step inside, and you don’t just witness creation—you become part of it.
 ## Packages
 
 - [**Rustwatch**](https://github.com/selcukcukur/rustwatch) - First-class logging and monitoring for Rust applications. Deep insights and structured logs, wherever you deploy.
+- [**Rustpipe**](https://github.com/selcukcukur/rustpipe) - Composable pipelines in Rust — define pipes, chain transformations, and handle errors with elegance.
 
 ## Contact
 
