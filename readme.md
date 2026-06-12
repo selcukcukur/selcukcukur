@@ -28,6 +28,10 @@ Step inside, and you don’t just witness creation—you become part of it.
 
 ## Packages
 
+### Typescript
+
+- [**webgl**](https://github.com/selcukcukur/webgl) - A modular WebGL toolkit — type‑safe, lightweight helpers for every rendering need.
+
 ### Rust
 
 - [**rustwatch**](https://github.com/selcukcukur/rustwatch) - Built on the idea that telemetry, and logs should be unified, spreading the philosophy that **everything is a record**.
